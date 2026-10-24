@@ -4,4 +4,4 @@
 - DSA: LeetCode Knight, 1200+ problems
 - Goal: ML/AI Engineer at Groww, Razorpay, Freshworks, Atlassian → Microsoft
 - Learning: 4+ hrs/day, hands-on first
-- Last completed: [update daily]
+- Last completed: Day 2, 3B1B Video 2 (Span and Basis), Titanic EDA done
